@@ -7,7 +7,7 @@ Welcome to the IoT and Raspberry Pi Workshop! This workshop is designed to intro
 ### Introduction to IoT and Sensors
 - Understand the concept of IoT
 - LoRAWan and LoRA
-- Learn about basics of Sensors & Actuators
+- Learn about basics of sensors and their connections
 
 ### The Pico Platform
 - Introduction to MicroPython and Thonny
