@@ -1,14 +1,13 @@
 # IoT and Raspberry Pi Workshop
 
-Welcome to the IoT and Raspberry Pi Workshop! This workshop is designed to introduce you to the fundamentals of Internet of Things (IoT) and Raspberry Pi, covering basic concepts, hands-on Arduino projects, Python programming basics, and cloud integration.
+Welcome to the IoT and Workshop! This workshop is designed to introduce you to the fundamentals of the Internet of Things (IoT) and Microcontrollers, covering basic concepts, hands-on projects, MicroPython programming basics, and some cloud integration.
 
 ## Introduction to IoT and Arduino Basics
 
 ### Introduction to IoT and Sensors
 - Understand the concept of IoT
-- LoRAWan and LoRA
-- Learn about basics of sensors and their connections
-
+- Introduce microprocessors and use cases
+  
 ### The Pico Platform
 - Introduction to MicroPython and Thonny
 - Pico Basics: Layout & Architecture (GPIO, SPI)
@@ -16,15 +15,33 @@ Welcome to the IoT and Raspberry Pi Workshop! This workshop is designed to intro
 
 ### Project Session 1
 - Simple LED Program for Pico
+
+### Interfacing with Peripherals
+- Understand the basics of peripherals
+- Breadboarding
+- Introduce the sensors we are using
 - Integrating Sensors & Reading Environmental Values
+- Learning to import and understand libraries
+
+### Project Session 2 
+- Interfacing with sensor and outputting to a screen
+- Use RF Transmitter to transmit data wirelessly
+
+### The ESP32
+- 
 
 ## Cloud Intergration
+- LoRA Communication Protocol
+- LoRAWan Framework
 
 ### MathWorks ThingSpeak
 - Introduction to ThinkSpeak
 - API Introduction
 
-### Project Session 2
+### Project Session 3
 - Setting up ThinkSpeak
 - Analyzing Data
+
+### Closing
+- Q and A
 
