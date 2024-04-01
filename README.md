@@ -1,4 +1,4 @@
-# IoT and Raspberry Pi Workshop
+# IoT and Microcontroller Workshop
 
 Welcome to the IoT and Workshop! This workshop is designed to introduce you to the fundamentals of the Internet of Things (IoT) and Microcontrollers, covering basic concepts, hands-on projects, MicroPython programming basics, and some cloud integration.
 
