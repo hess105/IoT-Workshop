@@ -1,5 +1,4 @@
-
-from simple import MQTTClient
+from thingspeak import MQTTClient
 import network
 import time
 from time import sleep
