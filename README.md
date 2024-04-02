@@ -45,3 +45,6 @@ Welcome to the IoT and Workshop! This workshop is designed to introduce you to t
 ### Closing
 - Q and A
 
+### Powerpoint Link
+-https://purdue0-my.sharepoint.com/:p:/r/personal/hess105_purdue_edu/Documents/IoT%20Device%20Workshop%20(2).pptx?d=w9903bc82b2574be08cfa9ffd14d13cfc&csf=1&web=1&e=wloOc6
+
