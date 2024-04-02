@@ -27,9 +27,6 @@ Welcome to the IoT and Workshop! This workshop is designed to introduce you to t
 - Interfacing with sensor and outputting to a screen
 - Use RF Transmitter to transmit data wirelessly
 
-### The ESP32
-- 
-
 ## Cloud Intergration
 - LoRA Communication Protocol
 - LoRAWan Framework
@@ -37,6 +34,9 @@ Welcome to the IoT and Workshop! This workshop is designed to introduce you to t
 ### MathWorks ThingSpeak
 - Introduction to ThinkSpeak
 - API Introduction
+
+### The ESP32
+- Introduction to the ESP32
 
 ### Project Session 3
 - Setting up ThinkSpeak
