@@ -10,9 +10,9 @@ import utime   # Library for timing
 
 # -------------------------------------------------------------------------------------------
 # Here we are defining a variable to a value. In this case we are assigning the LED_PIN to
-# a value of 25. This corresponds with the hardware code that PIN 25 is connected to the
+# a value of 25 or 2 (ESP32). This corresponds with the hardware code that PIN 25 is connected to the
 # onboard LED.
-LED_PIN = 2
+LED_PIN = 25
 
 # -------------------------------------------------------------------------------------------
 # In this step we are initializing a new Pin object named 'led'. We are using a function

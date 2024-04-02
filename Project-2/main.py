@@ -51,10 +51,15 @@ while True:
     humidity = dht_sensor.humidity()
     
     # Output the data to the screen
+    oled.text("Temp:    C", 0, 0)
+    oled.text("Hum:   %", 0, 10)
     oled.text("Temp: {} C".format(temperature), 0, 0)
     oled.text('Hum: {}%'.format(humidity), 0, 10)
     oled.text('Sample Text', 0, 20)
+    
+    
 
     oled.show()
         
     utime.sleep(2)  # Wait for 1 second
+
